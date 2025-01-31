@@ -1,0 +1,23 @@
+2025-01-31 00:35:43 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:06 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:06 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:07 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:31 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:31 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:41 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:41 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:37:42 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:39:23 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:39:24 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:39:24 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:39:24 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:39:25 - Tidak ada tugas yang mendekati deadline.
+2025-01-31 00:44:13 - Menambahkan notifikasi untuk User ID: 1, Task ID: 6
+2025-01-31 00:44:16 - Menambahkan notifikasi untuk User ID: 2, Task ID: 6
+2025-01-31 00:44:19 - Menambahkan notifikasi untuk User ID: 4, Task ID: 6
+2025-01-31 00:45:09 - Menambahkan notifikasi untuk User ID: 1, Task ID: 6
+2025-01-31 00:45:12 - Menambahkan notifikasi untuk User ID: 2, Task ID: 6
+2025-01-31 00:45:14 - Menambahkan notifikasi untuk User ID: 4, Task ID: 6
+2025-01-31 00:45:17 - Menambahkan notifikasi untuk User ID: 1, Task ID: 7
+2025-01-31 00:45:20 - Menambahkan notifikasi untuk User ID: 2, Task ID: 7
+2025-01-31 00:45:22 - Menambahkan notifikasi untuk User ID: 4, Task ID: 7
